@@ -21,7 +21,7 @@ Follwoing are insights and recommendations:
 The Files included in the repository include:
 
 <ul>
-  <li> SQL Query File : RSVP CAse Study.sql </li>
+  <li> SQL Query File : RSVP Case Study.sql </li>
   <li> Executive Sumamry and Recommendations PDF file </li>
  </ul>
 
